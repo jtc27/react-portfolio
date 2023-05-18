@@ -54,6 +54,17 @@ export default function Index() {
               </p>
 
             </div>
+
+            <div class="row-span-1 col-span-2 ...">
+
+              <p className='text-md leading-8 text-orange-700'>
+                My projects can be viewed on this site
+              </p>
+              <p className='text-md leading-2 text-orange-700'>
+                Links to my social sites are below.  Thank you for visiting 😊
+              </p>
+           
+            </div>
           </div>
 
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-500'>
