@@ -24,7 +24,7 @@ function Header() {
 
       <li>
         <Link 
-        href='/' className='
+        href='Projects' className='
         text-white px-4 py-2 rounded-md ml-8
         bg-gradient-to-r from-yellow-500 to-yellow-400'>
           projects
