@@ -59,12 +59,12 @@ export default function Index() {
                     project
                   </Link>
 
-                  <Link 
-                  href='/' className='
+                  <a target="_blank"
+                  href='https://github.com/jtc27/shopazon' className='
                   text-white px-4 py-2 rounded-md ml-8
                   bg-gradient-to-r from-rose-500 to-rose-600'>
                     github
-                  </Link>
+                  </a>
               </div>
 
             </div>
@@ -103,12 +103,12 @@ export default function Index() {
                     project
                   </Link>
 
-                  <Link 
-                  href='/' className='
+                  <a target="_blank"
+                  href='https://github.com/jtc27/airbnb-clone-react' className='
                   text-white px-4 py-2 rounded-md ml-8
                   bg-gradient-to-r from-rose-500 to-rose-600'>
                     github
-                  </Link>
+                  </a>
               </div>
             </div>
             <div class="row-span-5 ... px-5"><Image src={mybnb} className='border-2' /></div>
