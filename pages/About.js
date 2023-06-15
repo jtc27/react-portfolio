@@ -41,8 +41,15 @@ function About() {
           </div>
 
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-500'>
+        <a target="_blank"
+        title="Github"
+        href='https://github.com/jtc27' >
           <AiFillGithub/>
+        </a>
+        <a target="_blank"
+        href='https://www.linkedin.com/in/jtc27' >
           <AiFillLinkedin />
+        </a>
           <BsPersonVcardFill/>
         </div>
 
