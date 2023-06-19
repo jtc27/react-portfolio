@@ -26,7 +26,8 @@ function About() {
         <div className='grid grid-rows-8 grid-flow-col gap-4 text-center p-5'>
           <div class="row-span-5 ..."><Image src={about}  /></div>
             <div class="col-span-2 ...">
-              <p className='text-2xl text-teal-700 font-medium justify-center'>Hi I'm Jacob!</p> 
+              <p className='text-2xl text-teal-700 font-medium justify-center'>Hi I'm Jacob!</p>
+              <p className='text-xl text-gray-500 font-medium justify-center'>Software Developer</p> 
             </div>
             <div class="row-span-1 col-span-2 ...">
               <p className='text-md py-2 leading-8 text-gray-800 px-7'>
