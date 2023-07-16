@@ -97,12 +97,12 @@ export default function Index() {
               </p>
 
               <div className='py-8'>
-                  <Link 
-                  href='Projects' className='
+                  <a target="_blank"
+                  href='https://airbnb-clone-81d4a.web.app' className='
                   text-white px-4 py-2 rounded-md ml-8
                   bg-gradient-to-r from-violet-600 to-violet-500'>
-                    project
-                  </Link>
+                    mybnb site
+                  </a>
 
                   <a target="_blank"
                   href='https://github.com/jtc27/airbnb-clone-react' className='
